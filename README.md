@@ -1,4 +1,5 @@
 # Markov Chain Monte Carlo (MCMC) Sampling Algorithms
+![GitHub last commit](https://img.shields.io/github/last-commit/elliothha/mcmc-sampling-algos) ![GitHub repo size](https://img.shields.io/github/repo-size/elliothha/mcmc-sampling-algos)
 
 *[3/15/24 Update] Uploaded notebooks for random-walk MH and MALA*
 
