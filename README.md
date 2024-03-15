@@ -10,6 +10,8 @@ Note that despite my simple example of e^x as the target distribution in MH and 
 
 by **Elliot H Ha**. Duke University
 
+[elliothha.tech](https://elliothha.tech/) | [elliot.ha@duke.edu](mailto:elliot.ha@duke.edu)
+
 ---
 
 ## Dependencies
