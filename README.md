@@ -2,7 +2,11 @@
 
 *[3/15/24 Update] Uploaded notebooks for random-walk MH and MALA*
 
-This repo contains implementations for various MCMC sampling algorithms purely intended for educational purposes.
+This repo contains implementations for various MCMC sampling algorithms purely intended for educational purposes. 
+
+The general idea is that ergodic Markov chains with transition distributions that follow the detailed balance condition will eventually converge to their unique stationary distributions. If we choose the transition distribution such that the target distribution we wish to emulate is the stationary distribution of the Markov chain, then sampling directly from the Markov chain is asymptotically the same as sampling from the target distribution. 
+
+Note that despite my simple example of e^x as the target distribution in MH and MALA, MCMC sampling will work for unnormalized probability distributions due to the intractable normalization constant cancelling out in one ratio or another.
 
 by **Elliot H Ha**. Duke University
 
