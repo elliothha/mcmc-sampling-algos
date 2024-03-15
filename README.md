@@ -2,7 +2,7 @@
 
 *[3/15/24 Update] Uploaded notebooks for random-walk MH and MALA*
 
-This repo contains implementations for various MCMC sampling algorithms.
+This repo contains implementations for various MCMC sampling algorithms purely intended for educational purposes.
 
 by **Elliot H Ha**. Duke University
 
